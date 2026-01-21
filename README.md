@@ -136,10 +136,4 @@ Output directories are created automatically.
 
 ---
 
-## Citation
 
-If you use this repository in academic work, please cite:
-
-```bibtex
-
-```
