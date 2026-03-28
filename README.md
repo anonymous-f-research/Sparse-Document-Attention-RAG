@@ -1,4 +1,4 @@
-# Sparse (Document)-Attention RAG under Corpus Knowledge Poisoning Attacks
+# Addressing Corpus Knowledge Poisoning Attacks on RAG Using Sparse Attention
 
 ## Overview
 This repository contains the official code for the paper "Addressing Corpus Knowledge Poisoning Attacks on RAG Using Sparse Attention”.
