@@ -137,10 +137,9 @@ Output directories are created automatically.
 ---
 
 
-## Declaration of Generative AI Use
+## Acknowledgment
 
-We used an LLM (OpenAI’s GPT-5) for coding.
-We have **not** used genAI tools for other purposes in the work. Specifically, we wrote the paper and performed all the research stages by ourselves:
-ideation, related work coverage, model design, experimental setting design, evaluation, analysis, conclusions, etc.
+We used an AI assistant (OpenAI’s GPT-5) for coding.
+
 
 
