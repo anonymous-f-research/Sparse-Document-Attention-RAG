@@ -96,7 +96,7 @@ python -m src.pipeline.main path/to/config.json
 
 ---
 
-## Configuration (paper-aligned)
+## Configuration 
 
 Important parameters:
 - `TOP_K`: number of retrieved documents \(k\).
@@ -134,12 +134,6 @@ For each `(top_k, attacker_pos)` configuration, the pipeline produces:
 
 Output directories are created automatically.
 
----
-
-
-## Acknowledgment
-
-We used an AI assistant (OpenAI’s GPT-5) for coding.
 
 
 
